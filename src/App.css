@@ -1,0 +1,94 @@
+body {
+  background-color: lightgrey;
+}
+
+.app {
+  background-color: burlywood;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+input {
+  margin: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  background-color: beige;
+  color: brown;
+}
+
+#bill {
+  margin-left: 10px;
+  color: rgb(205, 255, 240);
+  font-weight: bold;
+}
+
+#tip {
+  margin-left: -15px;
+  color: rgb(205, 255, 240);
+  font-weight: bold;
+}
+
+#total-amount {
+  color: #0a5b5d;
+  font-size: 24px;
+}
+
+.reset-btn {
+  background-color: rgb(255, 106, 0);
+  color: white;
+  border-radius: 5px;
+  width: 70px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.reset-btn:hover {
+  background-color: darkblue;
+  cursor: pointer;
+}
+
+strong {
+  color: green;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+p {
+  font-size: 17px;
+  color: rgb(94, 122, 53);
+  font-weight: bold;
+}
+
+@media screen and (min-width: 420px) and (max-width: 768px) {
+  body {
+    background-color: rgb(255, 89, 89);
+  }
+
+  .app {
+    background-color: burlywood;
+    width: 60%;
+    padding: 12px;
+    text-align: center;
+    border-radius: 10px;
+    flex-direction: wrap;
+    margin-top: 20px;
+  }
+
+  p {
+    font-size: 17px;
+    color: rgb(94, 122, 53);
+    font-weight: bold;
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    background-color: lightgrey;
+  }
+}
