@@ -9,15 +9,13 @@ Then follow the steps below:-
 2. Open Integrated Terminal
 - Right Click on Sidebar > Select “Open In Integrated
 Terminal”
-3. Type “npm install” and press Enter, and wait for
-Installation to be completed (requires Internet)
+3. Type “npm install” and press Enter, and wait for the Installation to be completed (requires Internet)
 
 ```bash
 npm install
 ```
 
-4. After Installation, you will See the ‘node_modules’ Folder in
-the Sidebar
+4. After Installation, you will see the ‘node_modules’ Folder in the Sidebar
 
 5. Then start the application on your local Host with the following command on the Integrated Terminal
 
