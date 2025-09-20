@@ -4,6 +4,7 @@
 
 ❖ First, copy the URL that GitHub provided and clone this repository through the GitHub Desktop app. To download, follow this link, 
 > [Site Link](https://desktop.github.com/download/)
+
 ❖ Then, follow the steps below:-
 1. Open Project Folder In VS Code
 2. Open Integrated Terminal
