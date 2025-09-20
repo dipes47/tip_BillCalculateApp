@@ -27,6 +27,6 @@ npm start
 
 ### Some Screenshots are attached below
 ![f1](https://github.com/dipes47/tip_BillCalculateApp/blob/010c34d36b90ee60de208cf8b7ecc8ecf98a3aef/public/Screenshot%202025-09-20%20154157.jpg)
-![f2](https://github.com/dipes47/tip_BillCalculateApp/blob/45268fd4bd28d1014b7a0c37e5cf5d726d107627/Screenshot%202025-09-20%20154351.jpg).
+![f2](https://github.com/dipes47/tip_BillCalculateApp/blob/5e66eff2bca5f6de58c51ab3b0bd1ee2d308e36a/public/Screenshot%202025-09-20%20154351.jpg).
 
 
