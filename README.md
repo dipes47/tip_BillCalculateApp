@@ -4,7 +4,7 @@
 
 ❖ First, copy the URL that GitHub provided and clone this repository through the GitHub Desktop app. To download, follow this link, 
 > [Site Link](https://desktop.github.com/download/)
-Then follow the steps below:-
+❖ Then, follow the steps below:-
 1. Open Project Folder In VS Code
 2. Open Integrated Terminal
 - Right Click on Sidebar > Select “Open In Integrated
@@ -25,7 +25,7 @@ npm start
 --- 
 
 ### Some Screenshots are attached below
-![alt text for the image](https://github.com/dipes47/tip_BillCalculateApp/blob/45268fd4bd28d1014b7a0c37e5cf5d726d107627/Screenshot%202025-09-20%20154157.jpg)
-![alt text for the image](https://github.com/dipes47/tip_BillCalculateApp/blob/45268fd4bd28d1014b7a0c37e5cf5d726d107627/Screenshot%202025-09-20%20154351.jpg).
+![f1](https://github.com/dipes47/tip_BillCalculateApp/blob/45268fd4bd28d1014b7a0c37e5cf5d726d107627/Screenshot%202025-09-20%20154157.jpg)
+![f2](https://github.com/dipes47/tip_BillCalculateApp/blob/45268fd4bd28d1014b7a0c37e5cf5d726d107627/Screenshot%202025-09-20%20154351.jpg).
 
 
