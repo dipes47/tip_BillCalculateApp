@@ -48,7 +48,7 @@ input {
 }
 
 .reset-btn:hover {
-  background-color: darkblue;
+  background-color: rgba(0, 127, 139, 0.247);
   cursor: pointer;
 }
 
